@@ -3,6 +3,7 @@
 ## Master
 
 * FEATURE: add huawei smartax model (@nyash)
+* FEATURE: add AudioCodes MediaPack MP1xx and Mediant 1000 model
 * MISC: prompt updates in siklu, netonix, netscaler models
 
 ## 0.25.0
