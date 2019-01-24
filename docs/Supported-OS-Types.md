@@ -30,6 +30,7 @@
   * [AOSW](/lib/oxidized/model/aosw.rb)
 * AudioCodes
   * [AudioCodes](/lib/oxdized/model/audiocodes.rb)
+  * [AudioCodesMP](/lib/oxdized/model/audiocodesmp.rb)
 * Avaya
   * [VOSS (VSP Operating System Software)](/lib/oxidized/model/voss.rb)
   * [BOSS (Baystack Operating System Software)](/lib/oxidized/model/boss.rb)
